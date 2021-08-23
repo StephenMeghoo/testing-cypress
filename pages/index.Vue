@@ -1,4 +1,4 @@
-<template>
+<template
   <div class="row">
     <!-- Big Chart -->
     <div class="col-12">
