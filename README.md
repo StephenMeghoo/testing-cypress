@@ -13,6 +13,7 @@ We made it our priority to not add things that you don't need, so the Nuxt Black
 
 [Nuxt Black Dashboard](https://demos.creative-tim.com/nuxt-black-dashboard) is the extended version of [Black Dashboard](https://www.creative-tim.com/product/black-dashboard). Based on feedback from people that downloaded and used it, we have added needed components, and we have created multiple examples pages. We are curious to see how you want to use it and also improve it, so let us know any feedback you have.
 
+TEST 
 
 Special thanks go for the owners of these plugins:
 - [chartjs](https://www.chartjs.org/)
